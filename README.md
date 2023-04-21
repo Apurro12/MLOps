@@ -1,5 +1,5 @@
 # aprendizaje_maquina_II
-Repositorio de material de trabajo, presentaciones , códigos e implementaciones.
+Full E2E model implementation using mlflow
 
 # Las migrations estan en alembic
 https://alembic.sqlalchemy.org/en/latest/
